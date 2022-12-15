@@ -1,6 +1,6 @@
 # to-do-list-v2
 
-## Hi Again!
+Hi Again!
 There is a second version of to-do list.
 
 ### Version v2 additionally includes:
