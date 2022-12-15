@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-do list</title>
+    <link rel="icon" href="images/to-do-green.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
+        integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/box.css" rel="stylesheet">
+    <link href="css/addTasks.css" rel="stylesheet">
+    <link href="css/taskList.css" rel="stylesheet">
+    <script defer src="script.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300;1,700&display=swap" rel="stylesheet">
+    <title>Lista zadań</title>
+</head>
+
+<body>
+    <main class="box">
+      <header class="box__header">
+        <h1 class="box__title">Lista zadań</h1>
+      </header>
+
+      <div class="addTask__main">
+        <h2 class="addTask__header">Dodaj nowe zadanie</h2>
+
+        <form class="addTask__form js-form">
+          <input
+            class="js-taskInput addTask__input"
+            placeholder="Co jest do zrobienia?"
+            autofocus
+            maxlength="70"
+          />
+          <button class="js-submitButton addTask__submit">Dodaj zadanie</button>
+        </form>
+      </div>
+      <div class="taskList__main">
+        <div class="taskList__topSection">
+          <h2 class="taskList__header"><p>Lista zadań</p></h2>
+          <p class="taskList__buttons js-managementButtons"></p>
+        </div>
+
+        <ul class="js-tasks taskList__list"></ul>
+      </div>
+      <footer class="box__footer"> ®Konrad Gołaszewski</footer>
+    </main>
+  </body>
+
+</html>
