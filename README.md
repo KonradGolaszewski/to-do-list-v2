@@ -1,9 +1,11 @@
+|  :—-:   | 
 # to-do-list-v2
 
 Hi Again!
 There is a second version of to-do list.
 
 Version v2 additionally includes:
+
 -Added two buttons (mark all as done and hide completed tasks).
 -Added CSS transformation for text animations.
 -Refactored JavaScript according to immutability.
