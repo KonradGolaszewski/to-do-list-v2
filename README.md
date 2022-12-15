@@ -5,9 +5,9 @@ There is a second version of to-do list.
 
 Version v2 additionally includes:
 
-1.Added two buttons (mark all as done and hide completed tasks).
-2.Added CSS transformation for text animations.
-3.Refactored JavaScript according to immutability.
+1.  Added two buttons (mark all as done and hide completed tasks).
+2.  Added CSS transformation for text animations.
+3.  Refactored JavaScript according to immutability.
 
 Below is a short presentation of how the application works on website.
 
@@ -17,11 +17,13 @@ Below is a short presentation of how the application works on website.
 
 https://github.com/KonradGolaszewski/to-do-list-v2.git
 
-## Tech used:
-1.HTML
-2.CSS (Grid/Flex modules)
-3.Java Script
-4.BEM convention
-5.Immutability convention
+##  Used Technologies
+
+### To build this application i used
+1.  Semantic HTML
+2.  CSS
+3.  BEM convenction
+4.  ES6+ / immutability
+6.  RWD (Media Queries)
 
 # Enjoy!
