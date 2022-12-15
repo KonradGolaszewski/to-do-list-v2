@@ -1,4 +1,4 @@
-# to-do-list-v2
+## to-do-list-v2
 
 Hi Again!
 There is a second version of to-do list.
@@ -26,4 +26,4 @@ https://github.com/KonradGolaszewski/to-do-list-v2.git
 4.  BEM convention
 5.  Immutability convention
 
-# Enjoy!
+## Enjoy!
