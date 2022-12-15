@@ -15,7 +15,7 @@ Below is a short presentation of how the application works on website.
 
 ## Demo
 
-https://github.com/KonradGolaszewski/to-do-list-v2.git
+https://konradgolaszewski.github.io/to-do-list-v2/
 
 ## Used Technologies
 
