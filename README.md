@@ -1,9 +1,9 @@
 # to-do-list-v2
 
-Hi Again!
+## Hi Again!
 There is a second version of to-do list.
 
-Version v2 additionally includes:
+### Version v2 additionally includes:
 
 1.  Added two buttons (mark all as done and hide completed tasks).
 2.  Added CSS transformation for text animations.
@@ -17,7 +17,7 @@ Below is a short presentation of how the application works on website.
 
 https://github.com/KonradGolaszewski/to-do-list-v2.git
 
-##  Used Technologies
+## Used Technologies
 
 ### To build this application i used
 1.  Semantic HTML
