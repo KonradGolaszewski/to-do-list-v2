@@ -1,4 +1,4 @@
-## to-do-list-v2
+## To do list v2
 
 Hi Again!
 There is a second version of to-do list.
