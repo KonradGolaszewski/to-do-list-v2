@@ -20,10 +20,10 @@ https://github.com/KonradGolaszewski/to-do-list-v2.git
 ## Used Technologies
 
 ### To build this application i used
-1.  Semantic HTML
-2.  CSS
-3.  BEM convenction
-4.  ES6+ / immutability
-6.  RWD (Media Queries)
+1.  HTML
+2.  CSS (Grid/Flex modules)
+3.  Java Script
+4.  BEM convention
+5.  Immutability convention
 
 # Enjoy!
